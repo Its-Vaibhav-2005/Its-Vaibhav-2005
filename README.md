@@ -29,4 +29,4 @@
 ### 🔝 Top Contributed Repo
 <img src="https://github-contributor-stats.vercel.app/api?username=Its-Vaibhav-2005&limit=5&theme=dark&combine_all_yearly_contributions=true" width="100%" />
 ---
-[![](https://visitcount.itsvg.in/api?id=Its-Vaibhav-2005&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Its-Vaibhav-2005&icon=0&color=0)](https://visitcount.itsvg.in)]
