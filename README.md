@@ -1,7 +1,19 @@
 # Its-Vaibhav-2005
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/heyy-vaibhav/) [![Portfolio](https://img.shields.io/badge/Portfolio-%23212121.svg?logo=google-chrome&logoColor=white)](https://vaibhavpandey.netlify.app/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pandey.vaibhav311005@gmail.com) 
+<p align="center">
+  <a href="https://linkedin.com/in/heyy-vaibhav/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="40" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://vaibhavpandey.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23212121.svg?logo=google-chrome&logoColor=white" height="40" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:pandey.vaibhav311005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" height="40" alt="Email" />
+  </a>
+</p>
 
 ## 💻 Tech Stack:
 
